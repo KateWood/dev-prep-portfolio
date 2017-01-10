@@ -1,3 +1,19 @@
 body {
 	background-color: hotpink;
+	color: white;
 }
+
+p {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#my_name {
+	text-align: center;
+}
+
+#main_photo {
+	margin: 0 auto;
+	display: block;
+	width: 200px;
+}
+
