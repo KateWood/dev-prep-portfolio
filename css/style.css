@@ -7,6 +7,11 @@ p {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
+.portfolio_images {
+	height: 300px;
+	margin: 0 30px;
+}
+
 #my_name {
 	text-align: center;
 }
